@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Course Managment App",
+    subtitle: "Spring Boot MVC app with JPA",
+    description:
+      "Course management MVC app built using Spring Boot and JPA, implemented REST APIs for CRUD",
+    image: "./project-1.gif",
+    link: "https://github.com/ankittejyadav/springboot_coursemanagment_jpa",
+  },
+  {
     title: "Business Sales Insight",
     subtitle: "Data Warehouse and Visualization",
     description:

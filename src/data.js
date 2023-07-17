@@ -8,7 +8,7 @@ export const projects = [
     link: "https://github.com/ankittejyadav/springboot_coursemanagment_jpa",
   },
   {
-    title: "Business Sales Insight",
+    title: "Business Insight",
     subtitle: "Data Warehouse and Visualization",
     description:
       "Implemented a Data Warehouse, performed ETL operations and created dashboards.",
